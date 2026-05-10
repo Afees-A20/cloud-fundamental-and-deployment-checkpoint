@@ -2,6 +2,6 @@
   "name": "mern-app",
   "version": "1.0.0",
   "scripts": {
-    "start": "cd server && npm install && npm start"
+    "start": "node server/server.js"
   }
 }
